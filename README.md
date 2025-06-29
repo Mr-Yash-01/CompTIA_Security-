@@ -1,6 +1,6 @@
 # 🛡️ CompTIA Security+ (SY0-701) Certification Notes & Labs
 
-Welcome to my complete Security+ study resource! This repository documents everything I used to pass the **CompTIA Security+ (SY0-601)** exam — from theory and definitions to hands-on lab summaries and PBQ insights.
+Welcome to my complete Security+ study resource! This repository documents everything I used to pass the **CompTIA Security+ (SY0-701)** exam — from theory and definitions to hands-on lab summaries and PBQ insights.
 
 ---
 
@@ -49,4 +49,4 @@ Feel free to contribute or suggest improvements!
 
 ---
 
-**#SecurityPlus #CompTIA #Cybersecurity #SOC #Infosec #CertMaster #BlueTeam #SIEM #PBQ #NetworkSecurity #SY0601 #SecurityTraining**
+**#SecurityPlus #CompTIA #Cybersecurity #SOC #Infosec #CertMaster #BlueTeam #SIEM #PBQ #NetworkSecurity #SY0701 #SecurityTraining**
